@@ -1,0 +1,32 @@
+D:\Repos\Distributed-Transaction>go run .
+100 20
+transaction status true
+90 30
+transaction status true
+80 40
+transaction status true
+70 50
+transaction status true
+60 60
+transaction status true
+50 70
+transaction status true
+40 80
+transaction status true
+30 90
+transaction status true
+20 100
+transaction status true
+10 110
+transaction status true
+0 120
+transaction status false
+0 120
+transaction status false
+0 120
+transaction status false
+0 120
+transaction status false
+0 120
+transaction status false
+0 120
